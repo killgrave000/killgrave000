@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey 👋, I'm Mahir Labib  
 
-<!--
-**killgrave000/killgrave000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am passionate about **Web and Android Development**  
+- Currently working with **Flutter**  
+- I try to stay up to date with new **technologies** 💻  
+- I love **problem solving** 🧩  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 About Me
+- 🎓 Major in **Computer Science and Engineering**  
+- 🌱 Learning **DevOps** 
+- 🎮 Hobbies: **Gaming & Exploring Tech**  
+- 💬 Ask me about **Flutter, Android, or Web Development**  
+
+---
+
+### 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+⭐️ From [Mahir Labib](https://github.com/killgrave000)
