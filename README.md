@@ -9,7 +9,7 @@
 
 ### 🔹 About Me
 - 🎓 Major in **Computer Science and Engineering**  
-- 🌱 Learning **DevOps** 
+- 🌱 Learning **Backend & API Development** 
 - 🎮 Hobbies: **Gaming & Exploring Tech**  
 - 💬 Ask me about **Flutter, Android, or Web Development**  
 
